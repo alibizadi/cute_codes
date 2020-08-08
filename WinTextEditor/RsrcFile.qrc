@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>main-icon2.png</file>
+        <file>Text-Editor.ico</file>
+    </qresource>
+</RCC>
