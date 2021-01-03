@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EntryScene.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LogIn.qml</file>
+        <file>SignUp.qml</file>
+        <file>HomePage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>parli.png</file>
+    </qresource>
+</RCC>
